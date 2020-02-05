@@ -1,0 +1,11 @@
+/home/master/Documents/bootcamp/2020.02.05 Rock_Paper_Scissor/RockPaperScissors/bin/Debug/netcoreapp2.1/RockPaperScissors.deps.json
+/home/master/Documents/bootcamp/2020.02.05 Rock_Paper_Scissor/RockPaperScissors/bin/Debug/netcoreapp2.1/RockPaperScissors.runtimeconfig.json
+/home/master/Documents/bootcamp/2020.02.05 Rock_Paper_Scissor/RockPaperScissors/bin/Debug/netcoreapp2.1/RockPaperScissors.runtimeconfig.dev.json
+/home/master/Documents/bootcamp/2020.02.05 Rock_Paper_Scissor/RockPaperScissors/bin/Debug/netcoreapp2.1/RockPaperScissors.dll
+/home/master/Documents/bootcamp/2020.02.05 Rock_Paper_Scissor/RockPaperScissors/bin/Debug/netcoreapp2.1/RockPaperScissors.pdb
+/home/master/Documents/bootcamp/2020.02.05 Rock_Paper_Scissor/RockPaperScissors/obj/Debug/netcoreapp2.1/RockPaperScissors.csprojAssemblyReference.cache
+/home/master/Documents/bootcamp/2020.02.05 Rock_Paper_Scissor/RockPaperScissors/obj/Debug/netcoreapp2.1/RockPaperScissors.csproj.CoreCompileInputs.cache
+/home/master/Documents/bootcamp/2020.02.05 Rock_Paper_Scissor/RockPaperScissors/obj/Debug/netcoreapp2.1/RockPaperScissors.AssemblyInfoInputs.cache
+/home/master/Documents/bootcamp/2020.02.05 Rock_Paper_Scissor/RockPaperScissors/obj/Debug/netcoreapp2.1/RockPaperScissors.AssemblyInfo.cs
+/home/master/Documents/bootcamp/2020.02.05 Rock_Paper_Scissor/RockPaperScissors/obj/Debug/netcoreapp2.1/RockPaperScissors.dll
+/home/master/Documents/bootcamp/2020.02.05 Rock_Paper_Scissor/RockPaperScissors/obj/Debug/netcoreapp2.1/RockPaperScissors.pdb
